@@ -1,5 +1,5 @@
 module.exports = {
-    'My first test case'(browser){
+    'Test that select the bike element from the side Nav Bar'(browser){
 
         const peloton = browser.page.peloton();
 
